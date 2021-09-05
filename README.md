@@ -17,7 +17,7 @@ Built using:
 -Post your own status  
 -Upload images  
 
-Check out my hosted site: https://facebook-clone-pearl.vercel.app
+Check out my hosted site: https://facebook-clone-falconhex.vercel.app
   
 **Some files has been modified for security reasons  
 you may refer: https://youtu.be/dBotWYKYYWc for full tutorial**  
