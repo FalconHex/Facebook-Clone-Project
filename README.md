@@ -1,4 +1,11 @@
-# This is a Fullstack project: Facebook Clone  
+# This is a Fullstack project: Facebook Clone 
+
+
+
+https://user-images.githubusercontent.com/68680026/142036243-016991e9-f231-4c23-aa6d-43f1e9a3750f.mp4
+
+
+
 ## Features
 1.Sign Up - NextAuth  
 2.Posting Status - Firestore Database    
